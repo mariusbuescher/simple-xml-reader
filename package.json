@@ -1,0 +1,16 @@
+{
+  "name": "sitemap-xml-reader",
+  "version": "1.0.0",
+  "description": "A simple reader for sitemap.xml files returning the URLs.",
+  "repository": "https://github.com/mariusbuescher/simple-xml-reader.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Büscher <marius.buescher@denkwerk.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sync-request": "^3.0.1",
+    "xml-parser": "^1.2.1"
+  }
+}
